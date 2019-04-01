@@ -2,7 +2,7 @@
 
 This project was done by Caio Vigo & William Duncan.
 
-In this repository you can find three files. They are:
+In this repository you can find four files. They are:
 
 * HMM_The_Man_Iron_Mask.ipynb
 
